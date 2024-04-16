@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gruhne/Documents/GitHub/GD_Project-3/GD_ResearchProject2/Content/VictoryWidget.uasset",
+				"C:/Users/gruhne/Documents/GitHub/GD_Project-3/GD_ResearchProject2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/gruhne/Documents/GitHub/GD_Project-3/GD_ResearchProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ME/29UXBX5PMJM4CZ16UOVSM4.uasset",
+				"C:/Users/gruhne/Documents/GitHub/GD_Project-3/GD_ResearchProject2/Content/DeathWidget.uasset",
+				"C:/Users/gruhne/Documents/GitHub/GD_Project-3/GD_ResearchProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/gruhne/Documents/GitHub/GD_Project-3/GD_ResearchProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/N5/XWXGCVVLCB9IKMLL2JQBC6.uasset",
 				"F:/.Principles of Game Design/GD_ResearchProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
 			]
 		}
